@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/fazenda.css">
+
+    <title>Cadastro de Vaca</title>
+
+</head>
+
+<body class="vacad">
+
+    <p class="lw ">Cadastrar Vacas</p>
+
+
+    <form style="font-size: 30px; margin-left: 30%; ">
+        <label>Nome</label>
+        <input type="text " id="nome " placeholder="Digite o nome da Vaca ">
+        <br>
+     
+        <label>Quantidade de leite (Litros)</label>
+        <input type="number" placeholder="Digite a qtd de leite por dia ">
+        <br>
+        <label> Funcionário que está realizado o manejo </label>
+        <select id="tmptrabalhado ">
+            <option>MAX CARDOSO</option>
+            <option>LETICIA BARROS</option>
+            <option>KLEVERSON ALVES</option>
+            <option>JOÃO PEDRO</option>
+            <option>IGOR MARQUES</option>
+        </select>
+        <br>
+        <label>Data da realização do manejo)</label>
+        <input id="date" type="date">
+        <BR>
+        <label> Animal apresenta doença ? </label>
+        <select id="tmptrabalhado ">
+            <optgroup label="NÃO">
+                <option value="NÃO">NÃO
+            </optgroup>
+            </option>
+
+            <optgroup label="SIM">
+                <option value="Mastite ">Mastite </option>
+                <option value="audi">BabesioseAudi</option>
+            </optgroup>
+        </select>
+
+        <br>
+        <br>
+        <label> Caso o animal apresente doença, defina o processo.</label>
+        <br> <textarea rows="4" cols="50" maxlength="120"></textarea>
+        <BR>
+        <label>Quantidade de dias para recuperação</label>
+        <input type="number"  placeholder=" dias para recuperação ">
+        <br>
+        <br>
+
+    </form>
+    <center>
+        <button class="botoesprincipais" type="submit ">CADASTRAR</button>
+        <a href="index.html"><button class="voltar">Voltar</button> </a>
+    </center>
+    </div>
+    <center>
+
+    </center>
+</body>
+
+</html>
