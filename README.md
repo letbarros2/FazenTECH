@@ -27,7 +27,7 @@
 </ul>
 
 ---
-
+<h1> TELA CADASTRO FUNCIONARIO </h1>
 <ul>
     <li>
         <a href=""><img src="dados/cadastro.png"/></a>
@@ -35,6 +35,8 @@
 </ul>
 
 ---
+
+<h1> TELA CADASTRO VACA </h1>
 <ul>
     <li>
         <a href=""><img src="dados/cadastro2.png"/></a>
@@ -42,6 +44,7 @@
 </ul>
 
 ---
+<h1> TELA VISUALIZAÇÃO DADOS </h1>
 <ul>
     <li>
         <a href=""><img src="dados/visualização.png"/></a>
