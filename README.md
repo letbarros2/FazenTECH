@@ -26,6 +26,29 @@
     </li>
 </ul>
 
+---
+
+<ul>
+    <li>
+        <a href=""><img src="dados/cadastro"/></a>
+    </li>
+</ul>
+
+---
+<ul>
+    <li>
+        <a href=""><img src="dados/cadastro2"/></a>
+    </li>
+</ul>
+
+---
+<ul>
+    <li>
+        <a href=""><img src="dados/visualização.png"/></a>
+    </li>
+</ul>
+
+---
 
 ---
 
