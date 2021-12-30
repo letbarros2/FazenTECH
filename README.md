@@ -19,7 +19,7 @@
 
 ### Autor
 ---
-
+<h1> TELA PRINCIPAL </h1>
 <ul>
     <li>
         <a href=""><img src="dados/index.png"/></a>
@@ -30,14 +30,14 @@
 
 <ul>
     <li>
-        <a href=""><img src="dados/cadastro"/></a>
+        <a href=""><img src="dados/cadastro.png"/></a>
     </li>
 </ul>
 
 ---
 <ul>
     <li>
-        <a href=""><img src="dados/cadastro2"/></a>
+        <a href=""><img src="dados/cadastro2.png"/></a>
     </li>
 </ul>
 
